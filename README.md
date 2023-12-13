@@ -33,9 +33,9 @@ Hepsi bu kadar!
 
 4. Click "New local transform..." button
 
-5. Fill in the fields in the first window (example below), press Next
+5. Fill in the fields in the first window  press Next
 
-6. Fill in the fields in the second window (example below), press Finish
+6. Fill in the fields in the second window  press Finish
 
 
  Usage
